@@ -19,12 +19,10 @@
 ### 2020
 | 게시글 | 작성자 |
 | ------ | :----: |
-| [2020년도 회고록](https://uhhyunjoo.tistory.com/46) | [31기 이현주](https://github.com/alro923) |
 
 ### 2019
 | 게시글 | 작성자 |
 | ------ | :----: |
-| [2019년도 회고록](https://uhhyunjoo.tistory.com/45) | [31기 이현주](https://github.com/alro923) |
 
 ## 기여 방법 👪
 - [CONTRIBUTING.md](./CONTRIBUTING.md) 를 읽고 자신의 회고록을 공유해보세요!
